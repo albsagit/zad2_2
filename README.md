@@ -1,6 +1,6 @@
 # zad2 — System wypożyczania sprzętu (C#)
 
-Projekt implementuje prosty system wypożyczalni sprzętu akademickiego (użytkownicy, sprzęt, wypożyczenia, raport).
+Projekt implementuje prosty system wypożyczalni sprzętu (użytkownicy, sprzęt, wypożyczenia, raport).
 
 ## Opis projektu
 Aplikacja składa się z trzech czytelnych części:
